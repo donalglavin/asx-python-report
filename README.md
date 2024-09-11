@@ -37,5 +37,4 @@ shares at the end of every weekday.
 Setting up a system like this allows for transparent changes in history (by going through historic commits) as well as 
 providing a esasily accessible and up to date resource for financial data.
 
-# Results.
-*Once sufficient a link to the Reports.md File will be added below.*
+# [Your Daily Report](out/report/Index.md)
